@@ -41,7 +41,7 @@
     "passport-saml": "^2.2.0",
     "passport-slack": "0.0.7",
     "popper": "^1.0.1",
-    "sqlite3": "^4.2.0",
+    "sqlite3": "^5.0.3",
     "uid-safe": "^2.1.4",
     "validator": "^13.6.0"
   },

@@ -20,7 +20,7 @@
     "bootstrap": "^4.6.0",
     "bootswatch": "^4.6.0",
     "btoa": "^1.2.1",
-    "canvas": "^2.7.0",
+    "canvas": "^2.8.0",
     "canvas-confetti": "^1.4.0",
     "captchapng": "0.0.1",
     "cookie-parser": "^1.4.5",
@@ -41,7 +41,7 @@
     "passport-saml": "^2.2.0",
     "passport-slack": "0.0.7",
     "popper": "^1.0.1",
-    "sqlite3": "^4.2.0",
+    "sqlite3": "^5.0.3",
     "uid-safe": "^2.1.4",
     "validator": "^13.6.0"
   },
